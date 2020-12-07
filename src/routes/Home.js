@@ -7,9 +7,6 @@ const Home = () => {
   return (
     <div className="Home">
       <br />
-      &nbsp;&nbsp;
-      <br />
-      <br />
       <img src={myphoto} alt="myphoto" />
       <br />
       <Stack spacing={3}>

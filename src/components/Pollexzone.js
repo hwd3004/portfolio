@@ -28,8 +28,8 @@ const Pollexzone = () => {
             </Text>
             <br></br>
             <Text>
-              HTML5, CSS3, Javascript, jQuery를 사용한<br></br>반응형 웹사이트
-              클론 코딩입니다.
+              HTML5, CSS3, Javascript, jQuery를 사용하여<br></br>
+              메인 페이지만 완성한 반응형 웹사이트 클론 코딩입니다.
             </Text>
           </Stack>
         </div>

@@ -12,10 +12,10 @@ const App = () => {
     <div className="App">
       <Header />
       <Container minWidth="960px">
-        <Route exact path="/">
+        <Route exact path="/portfolio">
           <Home />
         </Route>
-        <Route exact path="/WebProject">
+        <Route exact path="/portfolio/WebProject">
           <WebProject />
         </Route>
         <Footer />
