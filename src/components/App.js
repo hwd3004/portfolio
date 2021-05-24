@@ -1,6 +1,6 @@
 import React from "react";
 import Footer from "./Footer";
-import "scss/App.scss";
+import "css/App.css";
 import Home from "routes/Home";
 import { Route } from "react-router-dom";
 import { Container } from "@chakra-ui/react";
@@ -15,7 +15,7 @@ const App = () => {
         <Route exact path="/portfolio">
           <Home />
         </Route>
-        <Route exact path="/portfolio/WebProject">
+        <Route exact path="/portfolio/web_project">
           <WebProject />
         </Route>
         <Footer />

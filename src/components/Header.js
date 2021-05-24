@@ -1,5 +1,5 @@
 import React from "react";
-import "scss/Header.scss";
+import "css/Header.css";
 import banner from "assets/image/banner.jpg";
 import { Button, Container, useColorMode } from "@chakra-ui/react";
 import { Link } from "react-router-dom";
@@ -25,7 +25,7 @@ const Header = () => {
           Home
         </Button>
         &nbsp;&nbsp;
-        <Button as={Link} to="/portfolio/WebProject">
+        <Button as={Link} to="/portfolio/web_project">
           Web Project
         </Button>
         &nbsp;&nbsp;

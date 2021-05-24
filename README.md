@@ -27,3 +27,5 @@ yarn build
 # 3. git 설치
 
 git bash에서 경로 확인 후 git remote, yarn deploy
+
+# 4. yarn remove node-sass

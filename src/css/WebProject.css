@@ -1,0 +1,8 @@
+.webpDiv {
+  display: flex;
+}
+
+.webpDiv .explainDiv,
+.webpDiv .imgLink {
+  width: 50%;
+}

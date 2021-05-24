@@ -1,0 +1,9 @@
+#bannerDiv {
+  overflow: hidden;
+  height: 300px;
+}
+
+#bannerDiv img {
+  width: 100%;
+  transform: translateY(-27%);
+}
